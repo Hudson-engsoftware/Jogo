@@ -1,4 +1,7 @@
 # Jogo JAVA Orientado a Objetos :
+
+## Em processo de Desenvolvimento -  30% Conclúido
+
 Os combates acontecem entre duas classes de personagens, os Orcs e os Humanos. Cada classe conta com três subclasses de personagens. 
 Cada classe possuem atributos
 próporios para combate.
